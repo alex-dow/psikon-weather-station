@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <title>Psikon Weather Reporter</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <style>
+    html,body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    *, *:before, *:after {
+  box-sizing: border-box;
+}
+
+    input
+    {
+      border-radius: 0px;
+      height: 40px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Psikon Weather Reporter</h1>
+  <form>
+    <fieldset>
+      <legend>MQTT Settings</legend>
+
+      <label for="mqtt_host">Hostname or IP Address</label>
+      <input id="mqtt_host"/><br/>
+      <label for="mqtt_port">Port number</label>
+      <input id="mqtt_port" type="number" min="0" max="65536"/><br/>
+      <label for="mqtt_username">Username</label>
+      <input id="mqtt_username"/><br/>
+      <label id="mqtt_password">Password</label>
+      <input id="mqtt_password"/><br/>
+      <label for="mqtt_id">ID</label>
+      <input id="mqtt_id" /><br/>
+    </fieldset>
+  </form>
+</body>
+</html>

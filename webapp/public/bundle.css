@@ -1,0 +1,27 @@
+section.svelte-vk6hfs{min-height:100vh;width:100%;display:flex;align-items:center;justify-content:center;background-color:aliceblue}.container.svelte-vk6hfs{max-width:400px;width:90%;padding:20px;box-shadow:0px 0px 20px #00000020;border-radius:8px;background-color:white}* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+ }
+ body {
+  font-family: "Montserrat";
+ }
+
+ fieldset {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+
+ .form-group {
+  width: 100%;
+  margin-top: 20px;
+ }
+ .form-group input {
+  width: 100%;
+  border: 1.5px solid rgba(128, 128, 128, 0.418);
+  padding: 5px;
+  font-size: 18px;
+  margin-top: 5px;
+  border-radius: 4px;
+ }.wifi-networks-list.svelte-1pkh0sr.svelte-1pkh0sr{margin:0;padding:0;list-style:none}.wifi-networks-list.svelte-1pkh0sr li.svelte-1pkh0sr{margin:0;padding:10px;border-bottom:1px solid #333}.wifi-networks-list.svelte-1pkh0sr li.svelte-1pkh0sr:hover{background-color:#eee}.wifi-networks-list.svelte-1pkh0sr li.svelte-1pkh0sr:active{background-color:blue}.lds-grid.svelte-1vdom7f.svelte-1vdom7f{display:inline-block;position:relative;width:80px;height:80px}.lds-grid.svelte-1vdom7f div.svelte-1vdom7f{position:absolute;width:16px;height:16px;border-radius:50%;background:#555;animation:svelte-1vdom7f-lds-grid 1.2s linear infinite}.lds-grid.svelte-1vdom7f div.svelte-1vdom7f:nth-child(1){top:8px;left:8px;animation-delay:0s}.lds-grid.svelte-1vdom7f div.svelte-1vdom7f:nth-child(2){top:8px;left:32px;animation-delay:-0.4s}.lds-grid.svelte-1vdom7f div.svelte-1vdom7f:nth-child(3){top:8px;left:56px;animation-delay:-0.8s}.lds-grid.svelte-1vdom7f div.svelte-1vdom7f:nth-child(4){top:32px;left:8px;animation-delay:-0.4s}.lds-grid.svelte-1vdom7f div.svelte-1vdom7f:nth-child(5){top:32px;left:32px;animation-delay:-0.8s}.lds-grid.svelte-1vdom7f div.svelte-1vdom7f:nth-child(6){top:32px;left:56px;animation-delay:-1.2s}.lds-grid.svelte-1vdom7f div.svelte-1vdom7f:nth-child(7){top:56px;left:8px;animation-delay:-0.8s}.lds-grid.svelte-1vdom7f div.svelte-1vdom7f:nth-child(8){top:56px;left:32px;animation-delay:-1.2s}.lds-grid.svelte-1vdom7f div.svelte-1vdom7f:nth-child(9){top:56px;left:56px;animation-delay:-1.6s}@keyframes svelte-1vdom7f-lds-grid{0%,100%{opacity:1}50%{opacity:0.5}}.modal.svelte-1co589i{display:none;position:fixed;z-index:1;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:rgb(0,0,0);background-color:rgba(0,0,0,0.4)}.modal-body.svelte-1co589i{background-color:#fefefe;margin:15% auto;padding:20px;border:1px solid #888;max-width:400px;width:90%}.modal-header.svelte-1co589i{text-align:center}.modal-footer.svelte-1co589i{text-align:center}.modal-content.svelte-1co589i{clear:both;text-align:center}
